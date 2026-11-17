@@ -1,0 +1,7 @@
+[package]
+name = "shlape"
+version = "0.1.0"
+edition = "2024"
+description = "a simple shell write juste for fun"
+[dependencies]
+colorize = "0.1.0"
